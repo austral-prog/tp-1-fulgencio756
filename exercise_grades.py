@@ -11,3 +11,7 @@ def grades():
     nota1 = 8
     nota2 = 7
     nota3 = 9
+    print((nota1+nota2+nota3)/3)
+    print(max(nota1,nota2,nota3))
+    print(min(nota1,nota2,nota3))
+    print(10-(nota1+nota2+nota3)/3)
